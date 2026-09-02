@@ -162,14 +162,16 @@ cd House_Price_ML_prediction/Prediction_V2
 
 #### (4) Execute os notebooks:
 
-```
+``
 Com o ambiente ativado, abra o Jupyter Notebook ou o VS Code e execute os arquivos na ordem lógica da esteira:
 
 1. Análise_Exploratoria.ipynb
 2. Tratamento_Processamento.ipynb
 3. Modelos_Lineares.ipynb
 4. Modelos_nao_Lineares.ipynb
-``
+`
 
-
+---
+*Desenvolvido por [Cauã Barreto](https://github.com/caua-barreto)*
+Desenvolvido por Cauã Barreto - Junior Data Scientist 
 
