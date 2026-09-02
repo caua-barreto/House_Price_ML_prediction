@@ -71,6 +71,8 @@ Para garantir a melhor precisão possível, foram desenvolvidos e comparados **9
 
 <img width="984" height="784" alt="image" src="https://github.com/user-attachments/assets/948eae14-b331-4f96-9181-fdbb17e01bd3" />
 
+(*) Veja que surpreendentemente o modelo linear apresentou **excelente concordância** e aderência. Veja que desde o modelo mais simples, até os modelos com penalizações (L1/L2) apresentam concordância nos seus resultados com **diferenças irrelevantes nos valores de suas métricas.**
+
 
 ### Modelos Não Lineares (otimizados, treinados com dataset completo OHE)
 
