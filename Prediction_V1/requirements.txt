@@ -1,0 +1,57 @@
+# =========================================================
+# MANIPULAÇÃO E ANÁLISE DE DADOS
+# =========================================================
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0           # Ferramentas matemáticas e estatísticas avançadas
+
+# =========================================================
+# VISUALIZAÇÃO DE DADOS
+# =========================================================
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0          # Para gráficos interativos no dashboard
+missingno>=0.5.2        # Para visualizar matrizes de dados nulos/ausentes (NaN)
+
+# =========================================================
+# MACHINE LEARNING & ESTATÍSTICA
+# =========================================================
+scikit-learn>=1.2.0     # Modelos (Random Forest, Regressão), Encoders, Métricas
+xgboost>=1.7.0          # Algoritmo de Gradient Boosting (Alta performance)
+lightgbm>=3.3.0         # Outra opção excelente e rápida de árvores de decisão
+shap>=0.41.0            # Gráficos de interpretabilidade (explica a decisão do modelo)
+
+# =========================================================
+# DASHBOARD E APLICAÇÕES WEB
+# =========================================================
+streamlit>=1.25.0       # Para criar o dashboard interativo
+
+# =========================================================
+# AMBIENTE JUPYTER
+# =========================================================
+notebook>=6.5.0
+ipykernel>=6.20.0
+jupyter>=1.0.0
+
+# =========================================================
+# CARREGAMENTO DE DADOS (Kaggle)
+# =========================================================
+kagglehub>=0.1.0        # Para baixar dados do Kaggle
+
+# =========================================================
+# SUPORTE E UTILIDADES
+# =========================================================
+pip>=23.0.0
+setuptools>=65.0.0
+wheel>=0.38.0
+
+# =========================================================
+# OPCIONAL - PARA EXPORTAÇÃO DE RELATÓRIOS
+# =========================================================
+nbconvert>=7.2.0        # Para converter notebook para HTML
+nbformat>=5.7.0         # Para ler/escrever notebooks
+
+# =========================================================
+# INSTALAÇÃO COMPLETA
+# =========================================================
+# Execute: pip install -r requirements.txt
